@@ -1,0 +1,7 @@
+echo "# bot" >> README.md telegram/bot
+git init 
+add README.md 
+git الالتزام -m "الالتزام الأول" git 
+Branch -M main 
+git remote add origin https://github.com/arkatisof1/bot.git
+ git push - الرئيسي الأص 
